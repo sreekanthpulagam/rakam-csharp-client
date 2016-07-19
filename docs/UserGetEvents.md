@@ -1,0 +1,11 @@
+# Rakam.Client.Model.UserGetEvents
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**User** | **string** |  | [optional] 
+**Limit** | **int?** |  | [optional] 
+**Offset** | **DateTime?** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
